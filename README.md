@@ -1,24 +1,17 @@
-💼 About Me
-Hello, I’m Arsal Mehmood, a Web Developer and AI Enthusiast with a passion for crafting innovative and efficient digital solutions.
+# 💼 About Me:
+🔭 I’m currently working on Developing websites and AI projects.<br>👯 I’m looking to collaborate on Exciting projects related to artificial intelligence and Development. <br>🤝 I’m looking for help with Enhancing the user interface design of my website – seeking talented designers. <br>🌱 I’m currently learning Advanced data analysis techniques using Python and diving deeper into natural language processing. <br>💬 Ask me about My experience with building and deploying web applications or my favorite programming languages. <br>⚡ Fun fact I'm a certified scuba diver and have explored coral reefs in three different continents!
+# 💫 Areas of Expertise:
+## Frontend Development:
+React, Next, HTML5, CSS3, Tailwind, JavaScript<br>
 
-Currently, I’m working on a variety of web development and AI-driven projects. My expertise lies in building scalable web applications, and I’m constantly exploring new technologies and methodologies.
+## Backend Development: 
+PHP, Node.js, Express, MongoDB, FireBase, MySQL<br>
 
-Web Development: Strong experience in React, PHP, JavaScript, and HTML/CSS.
+## AI: 
+Natural Language Processing<br>
 
-AI & Machine Learning: Focusing on data analysis and natural language processing using Python.
-
-Collaboration: Open to collaborating on projects in web development, artificial intelligence, and UI/UX enhancement.
-
-Growth: Always seeking opportunities to learn and contribute to meaningful projects that push the boundaries of technology.
-
-Areas of Expertise:
-Frontend Development: React, HTML5, CSS3, JavaScript
-
-Backend Development: PHP, Node.js, MySQL
-
-Data Science & AI: Python, Data Analysis, Natural Language Processing
-
-Tools & Frameworks: Git, Docker, AWS, React Router, Redux
+## Tools & Frameworks: 
+Git, Docker, AWS, React Router, Redux<br>
 
 
 ## 🌐 Socials:
